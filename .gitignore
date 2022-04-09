@@ -1,0 +1,13 @@
+# Log files
+*.log
+
+# Redis dump files
+*.rdb
+
+# Node modules
+node_modules
+dist
+
+# TypeScript temp artifacts
+*.tsbuildinfo
+
