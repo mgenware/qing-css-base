@@ -11,3 +11,4 @@ dist
 # TypeScript temp artifacts
 *.tsbuildinfo
 
+.DS_Store
